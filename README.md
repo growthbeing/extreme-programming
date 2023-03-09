@@ -1,8 +1,8 @@
-# Extreme Programming
+# Extreme Programming :zap:
 
 Extreme Programming (XP) is a software development methodology that emphasizes communication, feedback, and collaboration between developers and customers. It involves iterative development with short development cycles, frequent releases, and continuous testing and integration. XP also promotes simplicity, by focusing on the most essential features first, and encourages pair programming, where two developers work on the same code together. The methodology also emphasizes continuous improvement, with ongoing feedback and reflection on the development process. XP is designed to be flexible and adaptable to changing requirements and aims to deliver high-quality software that meets customer needs.
 
-Some tips for doing Extreme Programming (XP):
+**Some tips for doing Extreme Programming (XP):**
 
 - **Emphasize communication**: Effective communication is essential for XP, so make sure that everyone on the team is aware of what is happening and what is expected of them.
 
